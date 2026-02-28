@@ -1,2 +1,0 @@
---My comment
-SHOW DATABASES;
